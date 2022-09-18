@@ -1,0 +1,30 @@
+programa
+{
+	funcao inicio ()
+	{
+		
+		
+		
+	    inteiro [ 10 ], sm = 0 , i= 0 , maior = 0 , qm = 0 
+		real media= 0
+
+	
+		para (i = 0 ; i < 10 ; i++){
+			escreva ( "\n Me encaminhe o valor de 1 ate 6:")
+			leia r[i] sm+= [i]
+			
+			se (r[i] > maior) {
+				maior = r[i]
+				qm = 1
+			} senao  se ( r[i] == maior) {qm++ media = sm/10
+		
+		escreva ("\n  Colocação final do é de rolagens:",media,)
+		escreva ("\n  O valor maior h é: ",maior,)
+		
+		escreva("\n aparecendo:",qm,"vez(es):")
+				
+		
+		
+		
+		
+	
