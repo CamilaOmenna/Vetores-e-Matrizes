@@ -1,0 +1,35 @@
+programa
+{
+	funcao inicio ()
+	{
+		
+		biblioteca inclua --> mat
+		
+		inteiro const [5],l
+		real = 0
+		
+		para (l=0;l<5;l+=1){
+		const[l]= Carlinhos 
+	
+	escreva ("\n Me informe a nota que você quer digitar":)
+	leia (l)
+			
+     	se (cost[l]>c){
+     		escreva ("\n A nota considerável maior:",c,)
+     	}
+			
+			
+		}        )
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
